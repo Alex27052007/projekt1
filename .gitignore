@@ -1,0 +1,5 @@
+# Ignoriere versteckte Dateien, die von verschiedenen Betriebssystemen erzeugt werden
+.DS_Store
+Thumbs.db
+
+*test/*
